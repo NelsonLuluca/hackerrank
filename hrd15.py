@@ -9,13 +9,6 @@ class Solution:
             print current.data,
             current = current.next  
 
-    def getTail(self,head):
-        current = head
-        if current.next:
-            while current.next:
-                current = current.next
-        return current
-
     def insert(self,head,data): 
     #Complete this method
         if head:
