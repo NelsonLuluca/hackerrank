@@ -1,0 +1,9 @@
+import unittest
+
+# These example test cases are editable, feel free to add
+# your own tests to debug your code.
+
+# Note: the class must be called Test
+class Test(unittest.TestCase):
+  def test_should_say_hello(self):
+    self.assertEqual(say_hello("Qualified"), "Hello, Qualified!")
