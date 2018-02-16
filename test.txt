@@ -1,4 +1,5 @@
 
+
 Hi there I am a test file
 
 ADDING LINE for hotfix2
@@ -6,3 +7,5 @@ ADDING LINE for hotfix2
 ADDING LINE FOR hotfix3
 
 THIS LINE WAS ADDED AFTER TAGGING v0.1
+
+ANOTHER LINE RIGHT HERE Feb 16 2018
