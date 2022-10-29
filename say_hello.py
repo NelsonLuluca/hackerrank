@@ -10,7 +10,7 @@ def say_hello(name):
   if (name == ''):
       message = 'Hello there!'
   else:
-    message = "Hello, %s!" % name
+    message = f"Hello, {name}!"
   # but to complete the challenge you need to return a value
   return (message) # TODO: return correct value
 
